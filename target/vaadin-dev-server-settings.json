@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "D:/java_projects/springcrm/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "D:/java_projects/springcrm/frontend/generated/jar-resources",
+  "staticOutput": "D:/java_projects/springcrm/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "D:\\java_projects\\springcrm\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "D:\\java_projects\\springcrm\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "D:/java_projects/springcrm/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "D:/java_projects/springcrm/target/dev-bundle/config",
+  "jarResourcesFolder": "D:/java_projects/springcrm/frontend/generated/jar-resources",
+  "themeName": "CRM",
+  "clientServiceWorkerSource": "D:\\java_projects\\springcrm\\target\\sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'META-INF/resources/icons/offline.html'"
+}

@@ -1,2 +1,7 @@
-package de.contacts.springcrm.data;public interface CompanyRepository {
+package de.contacts.springcrm.data;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface CompanyRepository extends JpaRepository<Company, Long> {
+
 }

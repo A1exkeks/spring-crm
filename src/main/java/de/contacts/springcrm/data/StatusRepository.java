@@ -1,2 +1,7 @@
-package de.contacts.springcrm.data;public interface StatusRepository {
+package de.contacts.springcrm.data;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface StatusRepository extends JpaRepository<Status, Long> {
+
 }
