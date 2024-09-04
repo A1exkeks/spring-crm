@@ -21,7 +21,7 @@ import org.springframework.context.annotation.Scope;
 @Scope("prototype")
 @PermitAll
 @Route(value = "", layout = MainLayout.class)
-@PageTitle("Contacts | Vaadin CRM")
+@PageTitle("Contacts | Spring CRM")
 public class ListView extends VerticalLayout {
     Grid<Contact> grid = new Grid<>(Contact.class);
     TextField filterText = new TextField();
